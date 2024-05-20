@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "title_pic": "https://plus.unsplash.com/premium_photo-1665329006985-04f95dd59402?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "The 16 Most Important Social Media Trends for 2024",
+      "author_name": "Matt Navarra",
+      "author_pic": "https://st4.depositphotos.com/10208782/25036/i/450/depositphotos_250363866-stock-photo-woman-using-laptop-computer.jpg",
+      "blog_published": "2024-05-07",
+      "blog_duration": 7,
+      "blog_hashtags": ["#SocialMedia", "#Trends", "#Marketing"]
+    },
+    {
+      "id": 2,
+      "title_pic": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "The 16 Best Blogging Platforms for 2024",
+      "author_name": "HubSpot",
+      "author_pic": "https://st4.depositphotos.com/10208782/25036/i/450/depositphotos_250363866-stock-photo-woman-using-laptop-computer.jpg",
+      "blog_published": "2024-05-06",
+      "blog_duration": 10,
+      "blog_hashtags": ["#Blogging", "#Platforms", "#2024"]
+    },
+    {
+      "id": 3,
+      "title_pic": "https://images.unsplash.com/photo-1545239351-ef35f43d514b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "How to Write a Blog Post in 2024: The Ultimate Guide",
+      "author_name": "Smart Blogger",
+      "author_pic": "https://st4.depositphotos.com/10208782/25036/i/450/depositphotos_250363866-stock-photo-woman-using-laptop-computer.jpg",
+      "blog_published": "2024-05-08",
+      "blog_duration": 15,
+      "blog_hashtags": ["#Blogging", "#WritingTips", "#ContentCreation"]
+    },
+    {
+      "id": 4,
+      "title_pic": "https://images.ctfassets.net/wp1lcwdav1p1/3uKiGvN5pjbtwlTWEhugzt/f57b790f9aefcc130786a710e4fa276d/GettyImages-1338373232.jpg?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive",
+      "title": "WordPress vs Medium (2024) — Where Should You Blog?",
+      "author_name": "Elegant Themes",
+      "author_pic": "https://t3.ftcdn.net/jpg/03/59/42/28/360_F_359422840_6ZgJdJS5sOgXeDxYoFMrng55CzyVmK9j.jpg",
+      "blog_published": "2024-05-05",
+      "blog_duration": 8,
+      "blog_hashtags": ["#WordPress", "#Medium", "#Blogging"]
+    },
+    {
+      "id": 5,
+      "title_pic": "https://img.theweek.in/content/dam/week/news/sci-tech/2019/May/laptop-project-work-project-management-software-shut.jpg",
+      "title": "How to Republish Your Blog Posts on Medium to Boost SEO",
+      "author_name": "The Side Blogger",
+      "author_pic": "https://t3.ftcdn.net/jpg/03/59/42/28/360_F_359422840_6ZgJdJS5sOgXeDxYoFMrng55CzyVmK9j.jpg",
+      "blog_published": "2024-05-04",
+      "blog_duration": 6,
+      "blog_hashtags": ["#SEO", "#Blogging", "#Republishing"]
+    },
+    {
+      "id": 6,
+      "title_pic": "https://www.dynamitenews.com/images/2022/05/31/health-5-essential-guidelines-while-working-on-computer/6295cffb4cbf0.jpg",
+      "title": "How to Properly Migrate Medium to WordPress in 2024",
+      "author_name": "ThemeIsle",
+      "author_pic": "https://t3.ftcdn.net/jpg/03/59/42/28/360_F_359422840_6ZgJdJS5sOgXeDxYoFMrng55CzyVmK9j.jpg",
+      "blog_published": "2024-05-09",
+      "blog_duration": 12,
+      "blog_hashtags": ["#Migration", "#WordPress", "#Medium"]
+    },
+    {
+      "id": 7,
+      "title_pic": "https://cdn.sanity.io/images/mz2hls6g/production/9d941b62b55bbae949d372ad5d26f81bac0f85e9-5568x3712.jpg?w=3840&q=75&fit=clip&auto=format",
+      "title": "What is the Ideal Length for a Blog Post in 2024?",
+      "author_name": "Bramework",
+      "author_pic": "https://assets.aboutamazon.com/dims4/default/71b222e/2147483647/strip/true/crop/2000x1074+0+130/resize/1440x773!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F56%2F01%2F834aa61747c19ef723f0b48ec134%2F20180517nealthompsonauthor-js-11.jpg",
+      "blog_published": "2024-05-03",
+      "blog_duration": 9,
+      "blog_hashtags": ["#Blogging", "#ContentLength", "#SEO"]
+    },
+    {
+      "id": 8,
+      "title_pic": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/2VXUwEfqFA9qApjaaWHCqc/cc5634d28949aaaa93612d848b2e388f/iStock-1131359487-guidedlearningproject-C.jpg?w=1500&h=680&q=60&fit=fill&f=faces&fm=jpg&fl=progressive&auto=format%2Ccompress&dpr=1&w=1000",
+      "title": "5 Must-Have Plugins for WordPress in 2024",
+      "author_name": "John Hughes",
+      "author_pic": "https://assets.aboutamazon.com/dims4/default/71b222e/2147483647/strip/true/crop/2000x1074+0+130/resize/1440x773!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F56%2F01%2F834aa61747c19ef723f0b48ec134%2F20180517nealthompsonauthor-js-11.jpg",
+      "blog_published": "2024-05-01",
+      "blog_duration": 5,
+      "blog_hashtags": ["#WordPress", "#Plugins", "#2024"]
+    },
+    {
+      "id": 9,
+      "title_pic": "https://www.thebalancemoney.com/thmb/O5AZT4mYiA8oLU982RKu1hwAXos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-614421992-5bb4b837c9e77c002637a247.jpg",
+      "title": "How to Increase Blog Traffic in 2024",
+      "author_name": "Content Powered",
+      "author_pic": "https://assets.aboutamazon.com/dims4/default/71b222e/2147483647/strip/true/crop/2000x1074+0+130/resize/1440x773!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F56%2F01%2F834aa61747c19ef723f0b48ec134%2F20180517nealthompsonauthor-js-11.jpg",
+      "blog_published": "2024-05-02",
+      "blog_duration": 7,
+      "blog_hashtags": ["#BlogTraffic", "#SEO", "#2024"]
+    },
+    {
+      "id": 10,
+      "title_pic": "https://eadn-wc03-3360597.nxedge.io/wp-content/uploads/Staring-at-computer.jpg",
+      "title": "5 Best AI Video Generators in 2024",
+      "author_name": "Medium Contributor",
+      "author_pic": "https://assets.aboutamazon.com/dims4/default/71b222e/2147483647/strip/true/crop/2000x1074+0+130/resize/1440x773!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F56%2F01%2F834aa61747c19ef723f0b48ec134%2F20180517nealthompsonauthor-js-11.jpg",
+      "blog_published": "2024-05-11",
+      "blog_duration": 6,
+      "blog_hashtags": ["#AI", "#VideoGenerators", "#2024"]
+    }
+  ]
+  
